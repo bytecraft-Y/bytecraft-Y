@@ -1,6 +1,6 @@
 <!-- Dynamic Header Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Yash!%20Vats!%20👋&fontSize=50&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Yash%20Vats!%20👋&fontSize=50&fontAlignY=35&animation=twinkling" />
 </div>
 
 <h3 align="center">Software Developer | Data Science & Machine Learning Enthusiast</h3>
